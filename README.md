@@ -1,5 +1,5 @@
 # Profile Card
-
+A profile card template made with html,css & js
 ## [View Demo](https://rownok860.github.io/profile/)
 ### Screenshots:
 
